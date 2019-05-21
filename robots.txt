@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://lieshaelal.joshuamcsorley.com/sitemap.xml
